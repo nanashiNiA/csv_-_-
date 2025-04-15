@@ -14,3 +14,9 @@
     # IDE/Editor specific files (examples)
     .vscode/
     .idea/
+
+    # Ignore all files in the data directory
+    data/*
+
+    # Ignore all files in the logs directory
+    logs/*
